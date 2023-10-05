@@ -42,9 +42,9 @@ Surprisingly, the choice of words is quite similar among believers and non-belie
 ## Special Thanks 🙏
 A big shoutout to my amazing team members:
 
-Maggie Kalembo
-Opuere Ponuwei
-Osinach Ezemba
-Tise Onadipe
-Al-Moaruf Ajasa
+- Maggie Kalembo
+- Opuere Ponuwei
+- Osinachi Ezemba
+- Tise Onadipe
+- Al-Moaruf Ajasa
 Together, we made magic happen! 🌟
