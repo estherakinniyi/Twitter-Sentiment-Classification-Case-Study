@@ -5,12 +5,10 @@ In a world where climate change is a hot topic, imagine being able to predict wh
 We embarked on a thrilling journey to understand public sentiment on climate change. Armed with Python, Streamlit, scikit-learn, nltk, Comet, GitHub, and AWS EC2, we ventured into the Twitterverse to unravel the truth!
 
 ## What We Achieved 🚀
-Identified fascinating trends in tweets 📊
-Built an intelligent model to classify climate change sentiments 🧠
-Created a user-friendly app to share our findings with the world 📱
-Presented our discoveries to stakeholders, spreading awareness 🌱
-The Data Speaks 📊
-Our SVC model achieved an impressive F1-score (accuracy) of 0.76105, catapulting us to the 15th position out of 293 teams on Kaggle's leaderboard! 🏆
+- Identified fascinating trends in tweets 📊
+- Built an intelligent model to classify climate change sentiments 🧠
+- Created a user-friendly app to share our findings with the world 📱
+- Presented our discoveries to stakeholders, spreading awareness 🌱
 
 ## Peek Inside the Data 📈
 Behold the column bar chart revealing the sentiments towards climate change in our dataset:
@@ -24,15 +22,12 @@ Behold the column bar chart revealing the sentiments towards climate change in o
 Wordcloud Believe
 ![sen1](https://github.com/estherakinniyi/Twitter-Sentiment-Classification-Case-Study/assets/110997228/7c0bb61d-441b-4b4a-a669-6db191231930)
 
-Words from climate change skeptics 🤨
-Wordcloud Don't Believe
-
 ## App Magic in Action 🪄
-Experience our app in action! Check out this demo: TwitIntel Demo
+Experience our app in action! Check out this demo: MATTEO Demo
 
 ## Our Insights 🧐
-Most tweets are in support of climate change 🌍
-Surprisingly, the choice of words is quite similar among believers and non-believers, possibly due to trending topics and hashtags. 📢
+- Most tweets are in support of climate change 🌍
+- Surprisingly, the choice of words is quite similar among believers and non-believers, possibly due to trending topics and hashtags. 📢
 
 ## Recommendations 🚀
 
