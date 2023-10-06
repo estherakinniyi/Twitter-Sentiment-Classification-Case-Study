@@ -19,7 +19,7 @@ Behold the column bar chart revealing the sentiments towards climate change in o
 
 
 ## Words from climate change believers 🌿
-Wordcloud Believe
+
 ![sen1](https://github.com/estherakinniyi/Twitter-Sentiment-Classification-Case-Study/assets/110997228/7c0bb61d-441b-4b4a-a669-6db191231930)
 
 ## App Magic in Action 🪄
